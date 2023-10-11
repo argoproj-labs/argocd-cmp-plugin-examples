@@ -18,3 +18,4 @@ This contains the configuration for the plugin to run. The init step includes se
 
 Step 3: Update `argocd-repo-server` to include the additional init containers and cmp sidecar.
 See example file `argocd-repo-server.deployment.yaml`
+
